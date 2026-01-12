@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+<<<<<<< HEAD
     "start": "node app.js",
+=======
+	"start": "node index.js",
+>>>>>>> a61d5723067c0a2094ddb9419dab10aa08f4b83b
     "dev": "next dev --turbopack -p 9002",
     "genkit:dev": "genkit start -- tsx src/ai/dev.ts",
     "genkit:watch": "genkit start -- tsx --watch src/ai/dev.ts",
@@ -41,7 +45,11 @@
     "date-fns": "^3.6.0",
     "dotenv": "^16.5.0",
     "embla-carousel-react": "^8.6.0",
+<<<<<<< HEAD
     "express": "^5.2.1",
+=======
+	"express": "^5.2.1",
+>>>>>>> a61d5723067c0a2094ddb9419dab10aa08f4b83b
     "firebase": "^11.9.1",
     "framer-motion": "^11.3.2",
     "genkit": "^1.14.1",

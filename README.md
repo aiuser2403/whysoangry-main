@@ -27,3 +27,4 @@ To run this project on your local machine, follow these steps:
 The application will automatically reload if you make any changes to the code.
 # whysoangry
 "# whysoangrymain" 
+"# whysoangry-main" 
