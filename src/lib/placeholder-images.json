@@ -1,0 +1,31 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "quote-background-1",
+      "description": "A beautiful sunrise over a calm sea, representing hope and a new beginning.",
+      "imageUrl": "https://picsum.photos/seed/sunrise/1920/1080",
+      "imageHint": "sunrise beach"
+    },
+    {
+      "id": "quote-background-2",
+      "description": "A pleasant and calming beach scene at sunrise.",
+      "imageUrl": "https://picsum.photos/seed/beach/1920/1080",
+      "imageHint": "serene beach"
+    },
+    {
+        "id": "toilet-background",
+        "description": "A top-down view of a clean, white toilet bowl, ready to flush away anger.",
+		"imageUrl": "images/ToiletImage.jpg?q=80&w=1920&fit=crop",
+        "imageHint": "toilet top-down"
+    },
+    {
+        "id": "toilet-side",
+        "description": "Side view of a modern toilet.",
+        "imageUrl": "https://images.unsplash.com/photo-1603122694268-b387cf3b1a8d?q=80&w=1920",
+        "imageHint": "toilet side"
+    }
+  ]
+}
+
+    
